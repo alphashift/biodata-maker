@@ -1,11 +1,11 @@
 {
   "AppUpdate": {
-    "LatestVersionCode": 9,
+    "LatestVersionCode": 11,
     "ForceUpdate": true
   },
   "AdConfig": {
     "ShowOnAppStart": false,
     "InterstitialShowDelay": 30,
-    "InterstitialLoadInterval": 10000
+    "InterstitialLoadInterval": 15000
   }
 }
